@@ -5,7 +5,6 @@
 			"guid": "00000000000000000000000000000000",
 			"description": "Default Uncontrolled Changelist",
 			"files": [
-				"D:/UnrealProject/ProceduralGeneratedCity/CityWalkVR/Content/Maps/BP_Sky_Sphere.uasset",
 				"D:/UnrealProject/ProceduralGeneratedCity/CityWalkVR/Content/Maps/map.umap",
 				"D:/UnrealProject/ProceduralGeneratedCity/CityWalkVR/Content/Maps/VRTemplateMap.umap",
 				"D:/UnrealProject/ProceduralGeneratedCity/CityWalkVR/Content/Models/gun_blue.uasset",
@@ -13,6 +12,15 @@
 				"D:/UnrealProject/ProceduralGeneratedCity/CityWalkVR/Content/Models/gun_org.uasset",
 				"D:/UnrealProject/ProceduralGeneratedCity/CityWalkVR/Content/Models/gun_wht.uasset",
 				"D:/UnrealProject/ProceduralGeneratedCity/CityWalkVR/Content/Models/gun.uasset",
+				"D:/UnrealProject/ProceduralGeneratedCity/CityWalkVR/Content/Models/residential.uasset",
+				"D:/UnrealProject/ProceduralGeneratedCity/CityWalkVR/Content/Maps/VRTemplateMap_BuiltData.uasset",
+				"D:/UnrealProject/ProceduralGeneratedCity/CityWalkVR/Content/Materials/building/M_building.uasset",
+				"D:/UnrealProject/ProceduralGeneratedCity/CityWalkVR/Content/Materials/building/M_building2.uasset",
+				"D:/UnrealProject/ProceduralGeneratedCity/CityWalkVR/Content/Materials/building/M_building3.uasset",
+				"D:/UnrealProject/ProceduralGeneratedCity/CityWalkVR/Content/Materials/door/M_Door.uasset",
+				"D:/UnrealProject/ProceduralGeneratedCity/CityWalkVR/Content/Materials/road/M_road.uasset",
+				"D:/UnrealProject/ProceduralGeneratedCity/CityWalkVR/Content/Materials/rust/M_Rust.uasset",
+				"D:/UnrealProject/ProceduralGeneratedCity/CityWalkVR/Content/Maps/BP_Sky_Sphere.uasset",
 				"D:/UnrealProject/CityWalkVR/Content/VRTemplate/Maps/VRTemplateMap.umap",
 				"D:/UnrealProject/CityWalkVR/Content/Maps/map.umap",
 				"D:/UnrealProject/CityWalkVR/Content/Map/map.umap"
