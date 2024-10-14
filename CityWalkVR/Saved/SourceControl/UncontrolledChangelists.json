@@ -1,0 +1,14 @@
+{
+	"version": 1,
+	"changelists": [
+		{
+			"guid": "00000000000000000000000000000000",
+			"description": "Default Uncontrolled Changelist",
+			"files": [
+				"D:/UnrealProject/CityWalkVR/Content/VRTemplate/Maps/VRTemplateMap.umap",
+				"D:/UnrealProject/CityWalkVR/Content/Maps/map.umap",
+				"D:/UnrealProject/CityWalkVR/Content/Map/map.umap"
+			]
+		}
+	]
+}
