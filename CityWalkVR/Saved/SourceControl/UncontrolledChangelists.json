@@ -5,6 +5,14 @@
 			"guid": "00000000000000000000000000000000",
 			"description": "Default Uncontrolled Changelist",
 			"files": [
+				"D:/UnrealProject/ProceduralGeneratedCity/CityWalkVR/Content/Maps/BP_Sky_Sphere.uasset",
+				"D:/UnrealProject/ProceduralGeneratedCity/CityWalkVR/Content/Maps/map.umap",
+				"D:/UnrealProject/ProceduralGeneratedCity/CityWalkVR/Content/Maps/VRTemplateMap.umap",
+				"D:/UnrealProject/ProceduralGeneratedCity/CityWalkVR/Content/Models/gun_blue.uasset",
+				"D:/UnrealProject/ProceduralGeneratedCity/CityWalkVR/Content/Models/gun_grn.uasset",
+				"D:/UnrealProject/ProceduralGeneratedCity/CityWalkVR/Content/Models/gun_org.uasset",
+				"D:/UnrealProject/ProceduralGeneratedCity/CityWalkVR/Content/Models/gun_wht.uasset",
+				"D:/UnrealProject/ProceduralGeneratedCity/CityWalkVR/Content/Models/gun.uasset",
 				"D:/UnrealProject/CityWalkVR/Content/VRTemplate/Maps/VRTemplateMap.umap",
 				"D:/UnrealProject/CityWalkVR/Content/Maps/map.umap",
 				"D:/UnrealProject/CityWalkVR/Content/Map/map.umap"
